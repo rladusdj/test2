@@ -1,3 +1,6 @@
 [submodule "private2"]
 	path = private2
 	url = https://github.com/rladusdj/test2
+[submodule "private3"]
+	path = private3
+	url = https://github.com/rladusdj/test
